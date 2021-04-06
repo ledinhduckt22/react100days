@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react100days/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/react100days/static/js/main.e613b6bc.chunk.js",
+    "main.js.map": "/react100days/static/js/main.e613b6bc.chunk.js.map",
+    "runtime-main.js": "/react100days/static/js/runtime-main.e82969d6.js",
+    "runtime-main.js.map": "/react100days/static/js/runtime-main.e82969d6.js.map",
+    "static/js/2.910eb6d6.chunk.js": "/react100days/static/js/2.910eb6d6.chunk.js",
+    "static/js/2.910eb6d6.chunk.js.map": "/react100days/static/js/2.910eb6d6.chunk.js.map",
+    "static/js/3.705cb397.chunk.js": "/react100days/static/js/3.705cb397.chunk.js",
+    "static/js/3.705cb397.chunk.js.map": "/react100days/static/js/3.705cb397.chunk.js.map",
+    "index.html": "/react100days/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/react100days/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.910eb6d6.chunk.js.LICENSE.txt": "/react100days/static/js/2.910eb6d6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react100days/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e82969d6.js",
+    "static/js/2.910eb6d6.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.e613b6bc.chunk.js"
+  ]
+}
